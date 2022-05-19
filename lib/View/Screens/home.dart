@@ -21,7 +21,7 @@ class _HomePageState extends State<HomePage>
     return SafeArea(
         child: Scaffold(
             floatingActionButton: FloatingActionButton(
-                child: Icon(Icons.add),
+                child: const Icon(Icons.add),
                 onPressed: () async {
                  await  ScanHelpers.startCodeScan(context);
                 }),
@@ -72,7 +72,7 @@ class _HomePageState extends State<HomePage>
                           ),
                         ),
                         child:
-                        snapshots.data!.isEmpty?Center(child: Text("Sem Códigos Adicionados, Faça uma leitura"),)
+                        snapshots.data!.isEmpty?const Center(child:  Text("Sem Códigos Adicionados, Faça uma leitura"),)
                       :  Container(
                           width: Get.width,
                           child: SingleChildScrollView(
