@@ -18,7 +18,7 @@ de barras (EAN13. QR, etc) e armazena-los numa Database
 
 ## Tecnologias
 
-o Aplicativo foi desenvolvido com o framework [Flutter](https://flutter.dev/)
+o Aplicativo foi desenvolvido com o framework [Flutter  2.10.3 ](https://flutter.dev/)
 
 - [Cloud Firestore](https://pub.dev/packages/cloud_firestore) como base de dados Remota
 - [GetX](https://pub.dev/packages/get)
