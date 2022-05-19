@@ -37,5 +37,5 @@ o Projecto utliza  uma variação do Padrão MVC,separando as camadas e responsa
 ---
 
 #### Baixar APK
-### [Baixar O APK](https://www.mediafire.com/file/0d8qym9t8y5lfpw/CuboReminder.apk/file)
+### [Fazer Donwload do APK](https://www.mediafire.com/file/07pakbaqofa9vjq/ProuserCode+Reader.apk/file)
 
